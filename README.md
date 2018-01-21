@@ -15,7 +15,7 @@ Step 1. Add the dependency
 
     or
 	dependencies {
-	        compile 'com.tsinling.swipeback:swipeback:1.0.0'
+	        implementation 'com.tsinling.swipeback:swipeback:1.0.0'
 	}
 
 thanks for SwipeBackLayout (https://github.com/gongwen/SwipeBackLayout)
