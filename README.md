@@ -115,3 +115,6 @@ thanks for SwipeBackLayout (https://github.com/gongwen/SwipeBackLayout)
   最后
 
   与StatusBarUtil 配合使用更美哟！  https://github.com/laobie/StatusBarUtil
+
+
+  当然，这是用Activity实现的， 有fragment也可以实现 推荐 Fragmentation https://github.com/YoKeyword/Fragmentation
