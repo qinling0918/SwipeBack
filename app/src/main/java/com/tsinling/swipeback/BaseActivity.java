@@ -13,11 +13,10 @@ public class BaseActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        //attachSwipeToActivity();
+        attachSwipeToActivity();
     }
 
     private void attachSwipeToActivity() {
-
 
         if (!(this instanceof MainActivity)) {//跳过MainActivity
             SwipeBackLayout mSwipeBackLayout = new SwipeBackLayout(this);
@@ -25,6 +24,4 @@ public class BaseActivity extends AppCompatActivity {
             mSwipeBackLayout.setWeChatStyle(true);//若开启该功能，需要在Application里init
         }
     }
-
-
 }
