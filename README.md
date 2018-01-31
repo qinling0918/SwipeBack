@@ -14,6 +14,13 @@ Step 1. Add the dependency
     </dependency>
 
     or
+    
+repositories {
+    maven {
+        url  "https://dl.bintray.com/tsinling/swipeback" 
+    }
+}
+and
 	dependencies {
 	        implementation 'com.tsinling.swipeback:swipeback:1.0.0'
 	}
