@@ -7,7 +7,7 @@
 Step 1. Add the dependency
 
  	dependencies {
- 	        implementation 'com.tsinling.swipeback:swipeback:1.0.0'
+ 	          implementation 'com.tsinling.swipeback:library:1.0.0'
  	}
 
 
