@@ -4,6 +4,9 @@ import android.app.Activity;
 import android.app.Application;
 import android.os.Bundle;
 
+import com.tsinling.library.ActivityLifecycleCallbacks;
+import com.tsinling.library.SwipeBackLayout;
+
 
 /**
  * Created by tsinling on 2018/1/20.

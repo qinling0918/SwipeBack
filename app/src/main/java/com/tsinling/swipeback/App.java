@@ -2,6 +2,8 @@ package com.tsinling.swipeback;
 
 import android.app.Application;
 
+import com.tsinling.library.ActivityStack;
+
 
 /**
  * Created by tsinling on 2018/1/20.
