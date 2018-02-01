@@ -1,7 +1,7 @@
 
 # SwipeBack
    侧滑返回
-	https://img.shields.io/github/downloads/atom/atom/latest/total.svg
+[ ![Download](https://api.bintray.com/packages/tsinling/maven/swipeback/images/download.svg) ](https://bintray.com/tsinling/maven/swipeback/_latestVersion)	
 
 
 Step 1. Add the dependency
