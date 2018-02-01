@@ -1,7 +1,7 @@
 
 # SwipeBack
    侧滑返回
-
+	https://img.shields.io/github/downloads/atom/atom/latest/total.svg
 
 
 Step 1. Add the dependency
