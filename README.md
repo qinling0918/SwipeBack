@@ -53,7 +53,7 @@ thanks  for  [SwipeBackLayout](https://github.com/gongwen/SwipeBackLayout)
               <item name="android:windowBackground">@android:color/transparent</item>
           </style>
 
-   你可以在这样用
+   你可以这样用
 
 
       public class BaseActivity extends AppCompatActivity {
