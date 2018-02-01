@@ -41,16 +41,17 @@ thanks  for  [SwipeBackLayout](https://github.com/gongwen/SwipeBackLayout)
      <item name="android:windowBackground">@android:color/transparent</item>
 
 例如
-    <!-- <style name="AppTheme" parent="Theme.SwipeBack.NoActionBar">-->
-      <style name="AppTheme" parent="Theme.AppCompat.Light">
-          <item name="colorPrimary">@color/colorPrimary</item>
-          <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-          <item name="colorAccent">@color/colorAccent</item>
 
-         <!--  swipeback 库里提供了 Theme.SwipeBack.NoActionBar 主题  若您不想用该主题，则必须在您的主题下进行如下设置-->
-         <item name="android:windowIsTranslucent">true</item>
-          <item name="android:windowBackground">@android:color/transparent</item>
-      </style>
+        <!-- <style name="AppTheme" parent="Theme.SwipeBack.NoActionBar">-->
+          <style name="AppTheme" parent="Theme.AppCompat.Light">
+              <item name="colorPrimary">@color/colorPrimary</item>
+              <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+              <item name="colorAccent">@color/colorAccent</item>
+
+             <!--  swipeback 库里提供了 Theme.SwipeBack.NoActionBar 主题  若您不想用该主题，则必须在您的主题下进行如下设置-->
+             <item name="android:windowIsTranslucent">true</item>
+              <item name="android:windowBackground">@android:color/transparent</item>
+          </style>
 
    你可以在这样用
 
