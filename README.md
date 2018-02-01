@@ -6,24 +6,19 @@
 
 Step 1. Add the dependency
 
-    <dependency>
-        <groupId>com.tsinling.swipeback</groupId>
-        <artifactId>swipeback</artifactId>
-        <version>1.0.0</version>
-        <type>pom</type>
-    </dependency>
+ 	dependencies {
+ 	        implementation 'com.tsinling.swipeback:swipeback:1.0.0'
+ 	}
 
-    or
-    
+
+if  Failed to resolve: com.tsinling.swipeback:library:1.0.0
+Please copy the following to your project gradle file
+
 repositories {
     maven {
-        url  "https://dl.bintray.com/tsinling/swipeback" 
+        url  "https://dl.bintray.com/tsinling/maven"
     }
 }
-and
-	dependencies {
-	        implementation 'com.tsinling.swipeback:swipeback:1.0.0'
-	}
 
 thanks for SwipeBackLayout (https://github.com/gongwen/SwipeBackLayout)
 
