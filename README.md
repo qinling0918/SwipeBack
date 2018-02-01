@@ -1,7 +1,7 @@
-
+[ ![Download](https://api.bintray.com/packages/tsinling/maven/swipeback/images/download.svg) ](https://bintray.com/tsinling/maven/swipeback/_latestVersion)
 # SwipeBack
    侧滑返回
-[ ![Download](https://api.bintray.com/packages/tsinling/maven/swipeback/images/download.svg) ](https://bintray.com/tsinling/maven/swipeback/_latestVersion)	
+	
 
 
 Step 1. Add the dependency
