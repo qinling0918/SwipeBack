@@ -1,11 +1,5 @@
 [ ![Download](https://api.bintray.com/packages/tsinling/maven/swipeback/images/download.svg) ](https://bintray.com/tsinling/maven/swipeback/_latestVersion)
-
-<p align="center">
-   <a href="https://bintray.com/tsinling/maven/swipeback/1.0.0/link">
-    <img src="https://img.shields.io/badge/bintray-v1.0.0-brightgreen.svg" alt="Latest Stable Version" />
-  </a>
-  
-  <a href="https://developer.android.com/about/versions/android-4.0.3.html">
+ <a href="https://developer.android.com/about/versions/android-4.0.3.html">
     <img src="https://img.shields.io/badge/API-15%2B-blue.svg?style=flat-square" alt="Min Sdk Version" />
   </a>
   <a href="http://www.apache.org/licenses/LICENSE-2.0">
